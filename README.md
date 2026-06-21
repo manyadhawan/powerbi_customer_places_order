@@ -15,10 +15,10 @@ Power BI · DAX · Data Cleaning
 ## Dashboard Views
 
 ### Default View
-![Default View](customer_places order 3)
+![Default View](screenshotdefault.png)
 
 ### Dine In Filter Applied
-![Dine In](customer_places order 2)
+![Dine In](screenshotdinein.png)
 
 ### Home Delivery Filter Applied
-![Home Delivery](customer_places order 1)
+![Home Delivery](screenshothomedelivery.png)
